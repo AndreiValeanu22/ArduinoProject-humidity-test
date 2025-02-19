@@ -29,8 +29,6 @@ Sistemul nostru de monitorizare a umidității și temperaturii funcționează p
 - Dacă umiditatea este ușor ridicată (55-60%), LED-ul galben este aprins.
 - Dacă umiditatea este foarte ridicată (peste 60%), LED-ul roșu este aprins.
 
-**Link prezentare video 720p:** [Vizualizare video](https://drive.google.com/file/d/10LA-P38jCAGTo6i0wkkvW7ge3f3ecMhu/view)
-
 Simulăm creșterea umidității prin punerea degetului peste senzorul de umiditate pentru a prelua umiditatea din piele și observăm cum umiditatea crește iar LED-urile se schimbă.
 
 ## 3. Lista componente necesare
